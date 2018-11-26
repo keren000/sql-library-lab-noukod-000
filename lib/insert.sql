@@ -12,7 +12,7 @@ INSERT INTO books (title, year, series_id) VALUES ("The Odyssey", 1954, 1);
 INSERT INTO books (title, year, series_id) VALUES ("Pygmalion", 1954, 1);
 INSERT INTO books (title, year, series_id) VALUES ("Life", 1997, 2);
 INSERT INTO books (title, year, series_id) VALUES ("Freedom", 1998, 2);
-INSERT INTO books (title, year, series_id) VALUES ("The Goblet of Fire", 2000, 2);
+INSERT INTO books (title, year, series_id) VALUES ("Aeneid", 2000, 2);
 
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Harry Potter", "The Boy Who Lived", "Wizard", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Hagrid", "The Gentle Giant", "Giant", 2, 2);
