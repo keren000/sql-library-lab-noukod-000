@@ -9,7 +9,7 @@ INSERT INTO authors (name) VALUES ("Arthur Miller");
 
 INSERT INTO books (title, year, series_id) VALUES ("The Fellowship of the Ring", 1954, 1);
 INSERT INTO books (title, year, series_id) VALUES ("The Odyssey", 1954, 1);
-INSERT INTO books (title, year, series_id) VALUES ("The Return of the King", 1954, 1);
+INSERT INTO books (title, year, series_id) VALUES ("Pygmalion", 1954, 1);
 INSERT INTO books (title, year, series_id) VALUES ("The Sorcerer's Stone", 1997, 2);
 INSERT INTO books (title, year, series_id) VALUES ("The Chamber of Secrets", 1998, 2);
 INSERT INTO books (title, year, series_id) VALUES ("The Goblet of Fire", 2000, 2);
