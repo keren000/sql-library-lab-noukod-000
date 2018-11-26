@@ -1,11 +1,11 @@
 INSERT INTO series (title, author_id, subgenre_id) VALUES ("Les Miserables", 1, 1);
 INSERT INTO series (title, author_id, subgenre_id) VALUES ("The Crucible", 2, 2);
 
-INSERT INTO subgenres (name) VALUES ("Fantasy");
-INSERT INTO subgenres (name) VALUES ("Magic");
+INSERT INTO subgenres (name) VALUES ("Art History");
+INSERT INTO subgenres (name) VALUES ("Art");
 
-INSERT INTO authors (name) VALUES ("J.R.R. Tolkien");
-INSERT INTO authors (name) VALUES ("J.K. Rowling");
+INSERT INTO authors (name) VALUES ("Victor Hugo");
+INSERT INTO authors (name) VALUES ("Arthur Miller");
 
 INSERT INTO books (title, year, series_id) VALUES ("The Fellowship of the Ring", 1954, 1);
 INSERT INTO books (title, year, series_id) VALUES ("The Two Towers", 1954, 1);
