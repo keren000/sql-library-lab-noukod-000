@@ -19,7 +19,7 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("D.C
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Digital Fortress", "Digital", "Dan", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Eldest", "El", "Paolini", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("The Twits", "Twits", "Dahi", 1, 1);
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Saruman", "The White Wizard", "Wizard", 1, 1);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Seven Up", "Up", "Janet", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Lurtz", "An Army Worthy of Mordor", "Uruk-hai", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Shelob", "She likes to feed", "Giant Spider", 1, 1);
 
