@@ -15,7 +15,7 @@ INSERT INTO books (title, year, series_id) VALUES ("Freedom", 1998, 2);
 INSERT INTO books (title, year, series_id) VALUES ("Aeneid", 2000, 2);
 
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Eclipse", "The Eclipse", "Stephenie", 2, 2);
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("D.C. Dead", "The Gentle Giant", "Woods", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("D.C. Dead", "Dead", "Woods", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Fluffy", "A bit of music puts em right to sleep", "Three-Headed Dog", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Gilderoy Lockhart", "Me!", "Wizard", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Frodo Baggins", "The Bravest Hobbit", "Hobbit", 1, 1);
