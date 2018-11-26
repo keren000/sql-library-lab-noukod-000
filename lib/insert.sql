@@ -21,7 +21,7 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Eld
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("The Twits", "Twits", "Dahi", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Seven Up", "Up", "Janet", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Iron Mask", "The man in the Iron Mask", "Dumas", 1, 1);
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Shelob", "She likes to feed", "Giant Spider", 1, 1);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Underboss", "Sammy the bul", "Mass", 1, 1);
 
 INSERT INTO character_books (character_id, book_id) VALUES (1, 4);
 INSERT INTO character_books (character_id, book_id) VALUES (1, 5);
